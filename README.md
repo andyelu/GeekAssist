@@ -15,10 +15,10 @@ To set up GeekAssist on your Raspberry Pi, follow these simple steps:
 
 1. Clone the GeekAssist repository to your Raspberry Pi:
 
-2. Install the required dependencies
+2. Install the required dependencies by running pip install -r requirements.txt
 
-3. Obtain your OpenAI API credentials and replace YOUR_API_KEY in Chat.py with your actual API key.
+3. Obtain your OpenAI API credentials and add it as an environment variable with the name OPENAI_API_KEY
 
-4. Run GeekAssist
+4. Run geek_assist.py
 
 5. Interact with GeekAssist by saying "Hey Geek" followed by your command.
