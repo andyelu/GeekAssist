@@ -1,12 +1,9 @@
-# GeekAssist 🤖
-## By Andy Lu, Grant Thompson, AJ Little, Jake Jump
+# GeekAssist 
 
-GeekAssist is an innovative personal assistant project tailored for use with Raspberry Pi. As your trusty AI companion, it excels in responding to voice commands and delivering valuable information, all by harnessing the power of the GPT API. With its geeky charm, GeekAssist is set to revolutionize the way you interact with your Raspberry Pi.
+GeekAssist is an personal assistant tailored for use with Raspberry Pi. It implements OpenAI's GPT-3.5 Turbo API to understand natural language and provide insightful responses.
 
 ## Features 🚀
 - Hey Geek Activation: GeekAssist utilizes wake word activation, responding to the command "Hey Geek" to initiate interaction.
-
-- OpenAI API Integration: Powered by OpenAI's advanced AI capabilities, GeekAssist can understand natural language and provide insightful responses.
 
 - Text-to-Speech (TTS) Capabilities: GeekAssist can vocalize responses, creating a more interactive and engaging user experience.
 
@@ -25,14 +22,3 @@ To set up GeekAssist on your Raspberry Pi, follow these simple steps:
 4. Run GeekAssist
 
 5. Interact with GeekAssist by saying "Hey Geek" followed by your command.
-
-## Usage 🗣️
-Once GeekAssist is up and running, simply activate it by saying "Hey Geek" and wait for the prompt. Then, speak naturally and watch as GeekAssist works its magic! Here are some examples of commands you can try:
-
-"Hey Geek, tell me a joke!"
-
-"Hey Geek, search for DIY Raspberry Pi projects."
-
-"Hey Geek, who won the 2016 NBA Finals"
-
-Feel free to explore the range of tasks GeekAssist can handle.
